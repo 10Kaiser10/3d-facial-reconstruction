@@ -3,7 +3,7 @@ Reconstructing 3D face models from stereo images
 
 **Run the code/FacialReconstruction.ipynb notebook**
 
-**Dependencies:
+**Dependencies:**
   1. Python 3
   2. Numpy
   3. OpenCV
